@@ -1,8 +1,4 @@
 .activities {
-  padding-top: 0;
-}
-
-.activities__list {
   display: flex;
   margin-top: 50px;
 }
@@ -14,15 +10,6 @@
 }
 
 .activities__title {
-  color: var(--text-dark);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.17;
-  text-align: center;
-  letter-spacing: 0.03em;
-}
-
-.activities__subtitle {
   color: var(--text-light);
   font-weight: 700;
   font-size: 14px;
@@ -35,7 +22,7 @@
   position: relative;
 }
 
-.activities__subtitle-box {
+.activities__title-box {
   background-color: rgba(47, 48, 58, 0.8);
   height: 70px;
   width: 100%;

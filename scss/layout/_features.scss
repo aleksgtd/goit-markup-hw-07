@@ -4,18 +4,6 @@
   justify-content: center;
 }
 
-.features__container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.features__list {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .features__item {
   width: 270px;
 
@@ -32,7 +20,7 @@
   padding: 25px 0;
 }
 
-.features__subtitle {
+.features__title {
   margin-top: 30px;
   color: var(--text-dark);
   font-weight: 700;
